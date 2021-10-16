@@ -70,7 +70,7 @@ Type `pip install pygame`.
 - Code
     - This code is not for sale and should never be charged for.
     - I am the copyright owner of this project's code, if you wish to modify or use this code, please contact me directly.
-	- The copyright permissions for this code do not allow any unintended use, modification, or monitization without a written and legally binding agreement with me.
+	- The copyright permissions for this code do not allow any unintended use, modification, or monetization without a written and legally binding agreement with me.
 	
 - Assets
 	- The assets that are used belong to their respective owners, and are not usable in a paid form, if you wish to use these assets in a monitized form please contact the owners of each. 
