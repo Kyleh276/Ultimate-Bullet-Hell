@@ -1,0 +1,17 @@
+
+#Set up like the first class trial of danganronpa 1
+#each phase presents the player with 3-5 clues, and once they are
+#all collected, the player can begin figuring out which statement
+#they think is false.
+#when collecting clues, the minigame should be set up but pretty easy
+#and then once clues are collected, it should turn it up to 11
+#have a survival minigame, with clues that
+#need to be collected, and then used to disprove certain statements.
+#the player cannot pick whodunnit until the last phase.
+#weapons could be used as enemies, if the player runs out of attempts in the
+#current phase, they are guilty and die.
+#statements can be destroyed by truth bullets to go to the next phase.(if correct)
+#And if they hit a weapon, they lose one heart out of 5.
+#hearts reset after each phase ends.
+#between each phase, i will have a manditory reload confirm to ensure the player
+#is ready.(could also give me time to give context about important details.)
